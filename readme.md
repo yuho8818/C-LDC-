@@ -7,10 +7,9 @@
 ## 命令行操作
 1. 电脑下载Git安装，下载网址 https://git-scm.com/downloads
 2. 在合适的位置新建一个文件夹，点击鼠标右键，Git Bash Here
-3. 键入git init 初始化github项目
-4. 键入git clone git@github.com:yuho8818/C-LDC-.git
-5. ![image](./附件/2019-10-15_183820.jpg")
-6. 
+3. 键入git clone git@github.com:yuho8818/C-LDC-.git 把项目克隆到本地
+4. 可以看到项目已经被克隆到了本地，接着将作业答案放入相应目录，例如，将1971181_俞浩雄_2.18.cpp 对于第二章第18题放在 '/第二章/2.18/' 目录下。依次将各题答案放在相应目录下，文件命名规范为学号_姓名_题号。
+5. 
 
 # 问题及联系
 - 若有问题请及时联系
