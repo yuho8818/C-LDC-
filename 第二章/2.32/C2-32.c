@@ -22,6 +22,7 @@
        scanf("%d%d",&weight,&height);//Get input data from keyboard
        BMI = weight * 703 / (height * height);//Calculate and assign BMI
        printf ("\nYour BMI is %d \n",BMI);//Output user's BMI
+       printf("BMI VALUES\n");
        printf ("%-15s\t%-15s\n","Underweight","less than 18.5");
        printf ("%-15s\t%-15s\n","Normal£º","between 18.5 and 24.8");
        printf ("%-15s\t%-15s\n","Overweight£º","between 25 and 29.9");
