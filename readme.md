@@ -10,10 +10,10 @@
 2. 下载GitHub Desktop,并登陆自己的github账号。
 
 ## 图形化操作
-1. 点击本项目页面的fork，![image](./图片附件/2019-10-16_114524.jpg)
-2. fork完成后，可以看到自己拥有了一份项目的拷贝，例如图中为 yuhotest / C-LDC forked from yuho8818/C-LDC![image](./图片附件/2019-10-16_115012_LI.jpg)
+1. 点击本项目页面的fork，![image](https://github.com/yuho8818/C-LDC-/tree/master/图片附件/2019-10-16_114524.jpg)
+2. fork完成后，可以看到自己拥有了一份项目的拷贝，例如图中为 yuhotest / C-LDC forked from yuho8818/C-LDC![image](https://github.com/yuho8818/C-LDC-/tree/master/图片附件/2019-10-16_115012_LI.jpg)
 3. 点击页面clone or download, 点击clone on desktop，之后页面会跳转到客户端。
-4. 在desktop客户端中选择克隆到哪个目录，点击克隆。![image](./图片附件/2019-10-16_105554.jpg)
+4. 在desktop客户端中选择克隆到哪个目录，点击克隆。![image](https://github.com/yuho8818/C-LDC-/tree/master/图片附件/2019-10-16_105554.jpg)
 5. 看到如图所示即为成功。![image](./图片附件/2019-10-16_105846.jpg)
 6. 克隆完成，你能看到你选择的目录下多了一份'C-LDC'的文件夹，这意味在本地你也有了一份项目的拷贝，将作业放置到相应文件夹，如将1971181_俞浩雄_2.19.cpp 对于第二章第19题放在 '/第二章/2.19/' 目录下。
 7. 打开GitHub Desktop你能看见对文件的增改，然后Commit to master，提交修改到本地。 ![image](./图片附件/2019-10-16_110351.jpg)
