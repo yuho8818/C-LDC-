@@ -10,7 +10,7 @@
 2. 下载GitHub Desktop,并登陆自己的github账号。
 
 ## 图形化操作
-1. 点击本项目页面的fork，![image](https://github.com/yuho8818/C-LDC-/tree/master/图片附件/2019-10-16_114524.jpg)
+1. 点击本项目页面的fork，![image](./Image/2019-10-16_114524.jpg)
 2. fork完成后，可以看到自己拥有了一份项目的拷贝，例如图中为 yuhotest / C-LDC forked from yuho8818/C-LDC![image](https://github.com/yuho8818/C-LDC-/tree/master/图片附件/2019-10-16_115012_LI.jpg)
 3. 点击页面clone or download, 点击clone on desktop，之后页面会跳转到客户端。
 4. 在desktop客户端中选择克隆到哪个目录，点击克隆。![image](https://github.com/yuho8818/C-LDC-/tree/master/图片附件/2019-10-16_105554.jpg)
