@@ -12,7 +12,7 @@ int main()
     char a = 'A', b = 'B', c = 'C'; //The three columns of Hanoi tower are A, B and C.
     int n = 0;
 
-    tips();
+    Tips();
     printf ("%s\n\t\t              %s", "\n\t\t[System tips]:Please enter the number of plates on the starting column.", "(Enter '0' to end the program.):");
     scanf("%d" , &n);
     while(n)
@@ -23,7 +23,7 @@ int main()
         fflush(stdin);
         getchar();
         system("cls");
-        tips();
+        Tips();
         printf ("%s\n\t\t              %s", "\n\t\t[System tips]:Please enter the number of plates on the starting column.", "(Enter '0' to end the program.):");
         scanf("%d" , &n);
     }
@@ -51,7 +51,7 @@ void hanoi(int n , char a , char b , char c)
 }
 
 
-void tips()
+void Tips()
 {
     printf ("\n\n\t\t|--------------------------------|\n");
     printf ("\t\t|             *Tips*             |\n");
