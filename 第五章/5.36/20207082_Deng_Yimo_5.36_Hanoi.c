@@ -2,12 +2,12 @@
 #include <windows.h>
 
 void self_introduction();
-void tips();
+void Tips();
 void hanoi(int n , char a , char b , char c);//The starting column of Hanoi tower is a, the transition column is b, and the target column is c.
 
 int main()
 {
-    self_introduction();
+
 
     char a = 'A', b = 'B', c = 'C'; //The three columns of Hanoi tower are A, B and C.
     int n = 0;
@@ -30,8 +30,8 @@ int main()
     system("cls");
     printf ("\n\t\t[System tips]:The program has completed execution.\n");
     Sleep(250);
-    printf ("\n\t\t[System tips]:Thanks for using.");
-
+    printf ("\n\t\t[System tips]:Thanks for using.\n\n");
+    self_introduction();
     return 0;
 }
 
